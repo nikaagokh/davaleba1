@@ -1,4 +1,4 @@
 <script>
-     var salam = "Hello, World!";
+     ae
 
 </script>
